@@ -40,6 +40,8 @@ This project is a web application built with React and TypeScript using the Next
 
 - A customizable cover image area. This can be randomly generated or uploaded from local device.
 
+![Screenshot 1](./block-editor-sample1.jpeg)
+
 ### Editor
 
 - Dynamically imported component for text editing.
@@ -47,6 +49,8 @@ This project is a web application built with React and TypeScript using the Next
 ### TextareaAutosize
 
 - A text area that automatically adjusts its height based on the content.
+
+![Screenshot 2](./block-editor-sample2.jpeg)
 
 ## Contributing
 
